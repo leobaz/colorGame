@@ -11,9 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to the Color Game Project
+## Press any key to see the magic
 
 - Bulleted
 - List
